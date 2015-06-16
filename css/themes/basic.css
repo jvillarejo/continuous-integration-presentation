@@ -97,6 +97,21 @@ pre code {
 	display: none;
 }
 
+.slide img { 
+	width: 480px;
+	margin: 15px 10px;
+	border-radius: 5px;
+}
+
+.slide .center { 
+	text-align: center;
+}
+
+.slide .right-align {
+	float: right;
+}
+
+
 @media screen and (max-device-width: 480px) {
 /*	body {
 		height: auto;
